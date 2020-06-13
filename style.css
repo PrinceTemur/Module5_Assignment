@@ -1,0 +1,40 @@
+.navbr{
+    background-color: gray;
+    font-family: monospace;
+    height: 60px;
+}
+
+.navbr > h1{
+    padding-left: 4px;
+}
+
+.ulist{
+    list-style: none;
+    padding-left: 0px;
+}
+
+.ulist a{
+    text-decoration: none;
+    color: black;
+    font-size: 21px;
+}
+
+.ulist > li{
+    text-align: center;
+}
+
+.container > div{
+    border: 2px solid black;
+    margin-top: 5px;
+    background-color: gray;
+}
+
+.container h4{
+    border: 1px solid black;
+    float: right;
+}
+
+.container p{
+    clear: both;
+    text-align: justify;
+}
